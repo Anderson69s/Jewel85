@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Jewel85-rescue)(type Legacy)(uri ${KIPRJMOD}/Jewel85-rescue.lib)(options "")(descr ""))
+)

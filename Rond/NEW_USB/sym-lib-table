@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name Jewel85-rescue)(type Legacy)(uri ${KIPRJMOD}/Jewel85-rescue.lib)(options "")(descr ""))
-  (lib (name domotab)(type Legacy)(uri ${DOMOTAB}/domotab.lib)(options "")(descr ""))
-  (lib (name serigraphie)(type Legacy)(uri ${DOMOTAB}/serigraphie.lib)(options "")(descr ""))
-)

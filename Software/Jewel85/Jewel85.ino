@@ -1,5 +1,5 @@
 //Thank To Adafruit for NeoPixel Library and Jeff Saltzman for his awsome code !!!
-
+//https://learn.adafruit.com/adafruit-neopixel-uberguide
 // One press on push button = Change Led color/animation
 // Hold the button = increase brightness
 // Hold more for more brightness..
